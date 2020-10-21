@@ -11,6 +11,9 @@ scikit-learn = "*"
 matplotlib = "*"
 nltk = "*"
 numpy = "*"
+scikit-image = "*"
+tensorflow = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.8"
